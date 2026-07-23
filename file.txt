@@ -1,0 +1,75 @@
+1. Business Understanding
+
+2. Import Libraries
+pandas 
+seaborn
+matplotlib
+silhoute score 
+KMeans
+standard scale
+
+3. Load Dataset
+
+4. Data Understanding
+
+5. Data Cleaning
+removing of the duplicates
+removing the duplicates 
+fixing the data types
+handling negative quantities
+
+6. Exploratory Data Analysis
+Top 10 selling products
+monthly selling trend
+Quality distribution
+Top 10 contries by sales
+
+
+7. Feature Engineering
+
+ Create:
+   - Revenue = Quantity × UnitPrice
+   - Extract InvoiceDate information
+       - year
+       - month
+       - day
+
+
+8. RFM Analysis
+calculate:
+
+R recency - rcently coustomer made purchase 
+Frequency (f)- how often the customer makes purchase
+Monetary(M) - how much money as a customer spent 
+
+9. Feature Scaling
+standard scaling 
+10. finding optimal cluster
+     Elbow Method
+
+     Silhouette Score
+
+11. Train K-Means
+
+12. Cluster Analysis
+Understand each segment:
+
+   Cluster 0:
+   High spenders?
+
+   Cluster 1:
+   New customers?
+
+   Cluster 2:
+   Lost customers?
+
+
+14. Cluster Visualization
+ - Scatter plots
+   - PCA visualization
+   - Cluster distribution
+
+
+15. Business Recommendations
+
+16. Conclusion
